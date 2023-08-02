@@ -1,0 +1,20 @@
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_4_WindowsForms_Calculator\bin\Debug\028_4_WindowsForms_Calculator.exe.config
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_4_WindowsForms_Calculator\bin\Debug\028_4_WindowsForms_Calculator.exe
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_4_WindowsForms_Calculator\bin\Debug\028_4_WindowsForms_Calculator.pdb
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_4_WindowsForms_Calculator\obj\Debug\_028_4_WindowsForms_Calculator.Form1.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_4_WindowsForms_Calculator\obj\Debug\_028_4_WindowsForms_Calculator.Properties.Resources.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_4_WindowsForms_Calculator\obj\Debug\028_4_WindowsForms_Calculator.csproj.GenerateResource.cache
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_4_WindowsForms_Calculator\obj\Debug\028_4_WindowsForms_Calculator.csproj.CoreCompileInputs.cache
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_4_WindowsForms_Calculator\obj\Debug\028_4_WindowsForms_Calculator.exe
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_4_WindowsForms_Calculator\obj\Debug\028_4_WindowsForms_Calculator.pdb
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_4_WindowsForms_Calculator\obj\Debug\028_4_WindowsForms_Calculator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\028_4_WindowsForms_Calculator\bin\Debug\028_4_WindowsForms_Calculator.exe.config
+C:\Users\user\Desktop\028_4_WindowsForms_Calculator\bin\Debug\028_4_WindowsForms_Calculator.exe
+C:\Users\user\Desktop\028_4_WindowsForms_Calculator\bin\Debug\028_4_WindowsForms_Calculator.pdb
+C:\Users\user\Desktop\028_4_WindowsForms_Calculator\obj\Debug\028_4_WindowsForms_Calculator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\028_4_WindowsForms_Calculator\obj\Debug\_028_4_WindowsForms_Calculator.Form1.resources
+C:\Users\user\Desktop\028_4_WindowsForms_Calculator\obj\Debug\_028_4_WindowsForms_Calculator.Properties.Resources.resources
+C:\Users\user\Desktop\028_4_WindowsForms_Calculator\obj\Debug\028_4_WindowsForms_Calculator.csproj.GenerateResource.cache
+C:\Users\user\Desktop\028_4_WindowsForms_Calculator\obj\Debug\028_4_WindowsForms_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\028_4_WindowsForms_Calculator\obj\Debug\028_4_WindowsForms_Calculator.exe
+C:\Users\user\Desktop\028_4_WindowsForms_Calculator\obj\Debug\028_4_WindowsForms_Calculator.pdb
